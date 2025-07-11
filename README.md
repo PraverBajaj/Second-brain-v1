@@ -27,7 +27,7 @@ In today's digital era, information is scattered across multiple platforms—Twi
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/yourusername/second-brain.git
+git clone https://github.com/yourusername/second-brain-v1.git
 cd second-brain
 ```
 
